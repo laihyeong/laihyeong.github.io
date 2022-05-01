@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Raehyeong"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
-email: a-mail@mail.mail
+email: "fogud6866@seoultech.ac.kr"
 #blog logo
 logo: "/assets/images/rh_logo.jpg"
 float_logo: true # true, false (default)
@@ -49,7 +49,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/laihyeong
     desc:	Fork me on github
     share_url:
     share_title:
