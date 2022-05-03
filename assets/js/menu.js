@@ -1,7 +1,8 @@
 const menu = document.querySelector("#menu");
+const menuBtn = document.querySelector(".logo-readium");
 
 const onMenuClicked = () => {
-  menu.innerHTML = "<h1>It work!</h1>";
+  menu.style.left = "0px";
 }
 
-menu.addEventListener("click", onMenuClicked);
+menuBtn.addEventListener("click", onMenuClicked);
