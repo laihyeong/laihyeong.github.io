@@ -1,5 +1,5 @@
 const nav = document.querySelector("nav");
-const menu = documnet.querySelector("menu");
+const menu = documnet.querySelector(".menu");
 const menuBtn = document.querySelector(".logo-readium");
 
 const onMenuClicked = () => {
